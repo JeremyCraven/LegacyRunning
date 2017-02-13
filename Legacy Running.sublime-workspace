@@ -1,0 +1,717 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bord",
+				"border-spacing"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"anim",
+				"animation-time"
+			],
+			[
+				"an",
+				"animation-time"
+			],
+			[
+				"Flip",
+				"FlipCounter"
+			],
+			[
+				"trans",
+				"translateX()"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"alert",
+				"alertItemsSent"
+			],
+			[
+				"monit",
+				"monitorUptimeHTTPS"
+			],
+			[
+				"deployme",
+				"deploymentsURL"
+			],
+			[
+				"serv",
+				"serviceName"
+			],
+			[
+				"service",
+				"serviceName"
+			],
+			[
+				"deployment",
+				"deployment"
+			],
+			[
+				"mon",
+				"monitorSQL"
+			],
+			[
+				"monitor",
+				"monitorUptime"
+			],
+			[
+				"getS",
+				"getServicesHTTPS"
+			],
+			[
+				"response",
+				"monitorResponseTime"
+			],
+			[
+				"setInter",
+				"setIntervalID"
+			],
+			[
+				"callback",
+				"callbackEmailSent"
+			],
+			[
+				"call",
+				"callbackNumRecordings"
+			],
+			[
+				"Sent",
+				"Sent"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"PLACEM",
+				"PLACEMENT_CLOUD"
+			],
+			[
+				"PALCEMENT",
+				"PLACEMENT_ENV"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"rc",
+				"rc"
+			],
+			[
+				"replication",
+				"replicationcontrollers"
+			],
+			[
+				"ser",
+				"serviceName"
+			],
+			[
+				"con",
+				"controllersURL"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"re",
+				"requests"
+			],
+			[
+				"TELEGRAF",
+				"TELEGRAF_PORT"
+			],
+			[
+				"stats",
+				"statsd_conn"
+			],
+			[
+				"pthread",
+				"pthread_mutex_unlock"
+			],
+			[
+				"attempt",
+				"attemptCallback"
+			],
+			[
+				"comment",
+				"commentSchema"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"liked",
+				"liked_top_attempt"
+			],
+			[
+				"liked_",
+				"liked_previous_attempt"
+			],
+			[
+				"ch",
+				"challenge_votes"
+			],
+			[
+				"Challenge",
+				"ChallengeSchema"
+			],
+			[
+				"users",
+				"usersRoute"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"find",
+				"findById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1506,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 219,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/main.js",
+			"settings":
+			{
+				"buffer_size": 144,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 624.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dev/Projects/Legacy Running",
+		"/C/Dev/Projects/Legacy Running/assets",
+		"/C/Dev/Projects/Legacy Running/assets/css",
+		"/C/Dev/Projects/Legacy Running/assets/images"
+	],
+	"file_history":
+	[
+		"/C/Dev/Projects/Legacy Running/assets/css/calendar.css",
+		"/C/Dev/Projects/Legacy Running/assets/css/main.css",
+		"/C/Dev/Projects/Legacy Running/calendar.html",
+		"/C/Dev/Geofeedia/Nomad/frontend/index.html",
+		"/C/Dev/Projects/Legacy Running/index.html",
+		"/C/Dev/Geofeedia/Nomad/frontend/assets/js/main.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/assets/sass/main.scss",
+		"/C/Dev/Geofeedia/Nomad/frontend/assets/images/geofeedia_logo_horizontal.png",
+		"/C/Dev/Geofeedia/Nomad/src/modifyMetrics.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/assets/js/angular-countUp.min.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/sendStats.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/server.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/assets/js/countUp.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/assets/css/flipclock.css",
+		"/C/Users/Jeremy Craven/Desktop/FlipClock-master/FlipClock-master/compiled/flipclock.js",
+		"/C/Users/Jeremy Craven/Desktop/countUp.js-master/countUp.js-master/countUp.js",
+		"/C/Dev/Geofeedia/Nomad/src/config.js",
+		"/C/Dev/Geofeedia/Nomad/src/monitorSQL.js",
+		"/C/Dev/Geofeedia/Nomad/src/monitorQueue.js",
+		"/C/Dev/Geofeedia/Nomad/src/metrics.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/assets/css/main.css",
+		"/C/Dev/Geofeedia/Nomad/.gitignore",
+		"/C/Dev/Geofeedia/Nomad/gulpfile.js",
+		"/C/Dev/Geofeedia/Nomad/package.json",
+		"/C/Dev/Geofeedia/Nomad/.drone.sec",
+		"/C/Dev/Geofeedia/Nomad/.drone.yml",
+		"/C/Dev/Geofeedia/Nomad/frontend/assets/js/flipclock.min.js",
+		"/C/Dev/Geofeedia/Nomad/src/monitorUptime.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/assets/js/jquery.flipcounter.js",
+		"/C/Users/Jeremy Craven/Desktop/FlipClock-master/FlipClock-master/compiled/flipclock.css",
+		"/C/Dev/Geofeedia/Nomad/frontend/assets/js/jstween-1.1.min.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/influxSub.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/assets/css/jquery.flipcounter.css",
+		"/C/Dev/Geofeedia/Nomad/frontend/js/main.js",
+		"/C/Dev/Geofeedia/Nomad/src/monitorResponseTime.js",
+		"/C/Dev/Geofeedia/Dashboard/metrics.py",
+		"/C/Dev/Geofeedia/Nomad/frontend/sendInflux.js",
+		"/C/Dev/Geofeedia/Nomad/node_modules/influx/index.js",
+		"/C/Users/Jeremy Craven/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Dev/Geofeedia/Nomad/frontend/js/jquery.flipcounter.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/css/jquery.flipcounter.css",
+		"/C/Dev/Geofeedia/Nomad/frontend/css/flipcounter.css",
+		"/C/Dev/Geofeedia/Nomad/frontend/js/flipcounter.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/js/jstween-1.1.min.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/js/flipclock.min.js",
+		"/C/Dev/Geofeedia/Nomad/frontend/css/flipclock.css",
+		"/C/Dev/Templates/Bootstrap_Template.html",
+		"/C/Dev/Geofeedia/Nomad/src/test.js",
+		"/C/Dev/Geofeedia/Nomad/src/regtest.js",
+		"/C/Users/Jeremy Craven/Desktop/test.js",
+		"/C/Dev/Geofeedia/Nomad/tick_scripts/email_alert.tick",
+		"/C/Dev/Geofeedia/Nomad/dist/Dockerfile",
+		"/C/Dev/Geofeedia/Nomad/dist/Makefile",
+		"/C/Dev/Geofeedia/Nomad/README.md",
+		"/C/Users/Jeremy Craven/.config/browser-launcher2/config.json",
+		"/C/Users/Jeremy Craven/.v8flags.4.5.103.35.Jeremy Craven.json",
+		"/C/Users/Jeremy Craven/.docker/config.json",
+		"/C/Dev/Geofeedia/Nomad/dist/docker-entrypoint.sh",
+		"/C/Dev/Geofeedia/Nomad/dist/Dockerfile.v_1.0.0",
+		"/C/Dev/Geofeedia/Nomad/src/monitor(Deprecated).js",
+		"/C/Dev/Geofeedia/Nomad/src/monitorUptime(Deprecated).js",
+		"/C/Dev/Geofeedia/Nomad/src/OldmonitorUptime.js",
+		"/C/Dev/Geofeedia/Nomad/src/sql.js",
+		"/C/Dev/Geofeedia/Nomad/src/ca.crt",
+		"/C/Dev/Geofeedia/Nomad/metrics.js",
+		"/C/Dev/Geofeedia/Nomad/metrics.py",
+		"/C/Dev/Geofeedia/Nomad/watch.js",
+		"/C/Dev/Geofeedia/Dashboard/node_modules/request/request.js",
+		"/C/Dev/Geofeedia/Dashboard/test.js",
+		"/C/Dev/Geofeedia/Dashboard/package.json",
+		"/C/Dev/Python/Lib/site-packages/statsd/client.py",
+		"/C/Dev/Python/Lib/site-packages/statsd/tests.py",
+		"/C/Dev/Geofeedia/Dashboard/tele.conf",
+		"/C/Dev/Projects/OneUp/OneUp-backend/.gitignore",
+		"/C/Dev/Cygwin/etc/bash.bashrc",
+		"/C/Dev/Cygwin/etc/profile",
+		"/C/Dev/Geofeedia/Metrics/statsd/exampleConfig.js",
+		"/C/Dev/Go/Projects/src/github.com/influxdata/telegraf/Makefile",
+		"/C/Dev/Geofeedia/Metrics/test.py",
+		"/C/Dev/Geofeedia/Metrics/statsd/stats.js",
+		"/C/Dev/Geofeedia/Metrics/metricsTest.js",
+		"/C/Dev/Geofeedia/Metrics/statsd/node_modules/statsd-influxdb-backend/scripts/setup-influxdb.js",
+		"/C/Dev/Geofeedia/Metrics/statsd/node_modules/statsd-influxdb-backend/scripts/packet-generator.js",
+		"/C/Dev/Geofeedia/Metrics/statsd/lib/mgmt_server.js",
+		"/C/Dev/Geofeedia/Metrics/statsd/lib/process_metrics.js",
+		"/C/Dev/Geofeedia/Metrics/statsd/backends/graphite.js",
+		"/C/Dev/Geofeedia/Metrics/statsd/lib/process_mgmt.js",
+		"/C/Dev/Geofeedia/Metrics/statsd/servers/udp.js",
+		"/C/Dev/Geofeedia/Metrics/statsd/lib/config.js",
+		"/C/Dev/Geofeedia/Metrics/statsd/lib/helpers.js",
+		"/C/Dev/Geofeedia/Metrics/statsd/node_modules/statsd-influxdb-backend/lib/influxdb.js",
+		"/C/statsd/exampleConfig.js",
+		"/C/Dev/Geofeedia/Metrics/node-statsd/lib/config.js",
+		"/C/Go/projects/bin/influxdb.generated.conf",
+		"/C/Users/Jeremy Craven/.ports.json",
+		"/C/Dev/Projects/OneUp/OneUp-backend/router/index.js",
+		"/C/Users/Jeremy Craven/OneDrive/Education/4th Semester/CS 252/Code/Lab 5/test",
+		"/C/Users/Jeremy Craven/OneDrive/Education/4th Semester/CS 252/Code/Lab 5/myhttpd.cpp",
+		"/C/Users/Jeremy Craven/Desktop/CS 252 Final Review/simpleServer",
+		"/C/Users/Jeremy Craven/Desktop/CS 252 Final Review/simpleClient.c",
+		"/C/Users/Jeremy Craven/Desktop/CS 252 Final Review/RWLock.cpp",
+		"/C/Users/Jeremy Craven/Desktop/CS 252 Final Review/syncList.c",
+		"/C/Users/Jeremy Craven/Desktop/CS 252 Final Review/grepsort.c",
+		"/C/Users/Jeremy Craven/Desktop/CS 252 Final Review/syncStack.c",
+		"/C/Users/Jeremy Craven/Desktop/CS 252 Final Review/server.c",
+		"/C/Users/Jeremy Craven/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Jeremy Craven/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jeremy Craven/Desktop/syncList.c",
+		"/C/Users/Jeremy Craven/Desktop/Q2.c",
+		"/C/Dev/Projects/OneUp/OneUp-backend/server.js",
+		"/C/Dev/Projects/OneUp/OneUp-backend/models/user.js",
+		"/C/Dev/Projects/OneUp/OneUp-backend/models/challenge.js",
+		"/C/Dev/Projects/OneUp/OneUp-backend/models/attempt.js",
+		"/C/Dev/Projects/OneUp/OneUp-backend/models/comment.js",
+		"/C/Dev/Projects/OneUp/OneUp-backend/models/location.js",
+		"/C/Dev/Projects/OneUp/OneUp-backend/package.json",
+		"/C/Dev/Projects/OneUp/OneUp-backend/keys.js",
+		"/C/Dev/Projects/Cherry Website/index.html",
+		"/C/Users/Jeremy Craven/Desktop/main.css",
+		"/C/Users/Jeremy Craven/Desktop/gogo",
+		"/C/Dev/Projects/OneUp/OneUp-backend/node_modules/gify/index.js",
+		"/C/Dev/Projects/OneUp/OneUp-backend/README.md",
+		"/C/Users/Jeremy Craven/.mongorc.js",
+		"/C/Dev/Projects/OneUp/OneUp-backend/uploads/challenge_attempts/5706a4b49480af882777c3c0_57083584f9f746900b1e07c9_1460227760711_orig.mp4",
+		"/C/Dev/Projects/OneUp/OneUp-backend/uploads/challenge_attempts/5706a4b49480af882777c3c0_57083584f9f746900b1e07c9_1460228772636.gif",
+		"/C/Dev/Projects/OneUp/OneUp-backend/uploads/challenge_attempts/5706a4b49480af882777c3c0_57083584f9f746900b1e07c9_1460226848245_orig.mp4",
+		"/C/Dev/Projects/OneUp/OneUp-backend/models/challengegroup.js",
+		"/C/Dev/Projects/OneUp/OneUp-backend/models/vote.js"
+	],
+	"find":
+	{
+		"height": 61.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"transp",
+			"color",
+			"ccc",
+			"test",
+			"value",
+			"1d5cab",
+			"row_data",
+			"good",
+			"left",
+			"play",
+			"asd",
+			"play",
+			"flip",
+			"addDigit",
+			"pluginName",
+			"speed",
+			"callbackFeedsActive",
+			"DEBUG",
+			"tele",
+			"                                        ",
+			"Update",
+			"speed",
+			"getServices",
+			"endpoin",
+			"monitorUptime",
+			"serviceRC",
+			"UP",
+			"console.log",
+			"serviceName",
+			"!",
+			"fs",
+			"MONITOR_WEBAPP",
+			"k8sa",
+			"callback",
+			"name",
+			"namespace",
+			"tags",
+			"tele",
+			"PATH",
+			"env",
+			"Monitor_WEb",
+			"TOKEN",
+			"debug",
+			"service_name",
+			"setint",
+			"true",
+			"services",
+			"env",
+			"setTimeout",
+			"SERVICE_NAME",
+			"update_interval",
+			"connectionErrorHandler",
+			"connectionErrorHandl",
+			"connectionErrorHandli",
+			"request",
+			"TOKEN",
+			"TOKEN_PATH",
+			"webap",
+			"env",
+			"process",
+			"DEBUG",
+			"TODO",
+			"endpoints",
+			"service",
+			"timeout",
+			"for",
+			"loadBack",
+			"pm",
+			"name",
+			"processThread",
+			");\n",
+			"processThread",
+			"ctrl+a",
+			"clientIPAddress",
+			"assoc",
+			"bodyP",
+			"score",
+			"err",
+			"music",
+			"navigation--",
+			"about",
+			"likedPrev",
+			"record_",
+			"attempt.likes",
+			"challenge.likes",
+			"popu",
+			"req.user",
+			"req.head",
+			"User.find",
+			"userid",
+			"populate",
+			"save",
+			"vot",
+			"vote",
+			"null",
+			"push",
+			"facebook",
+			"prompt",
+			"test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								746,
+								746
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 359.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 49.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Legacy Running.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
